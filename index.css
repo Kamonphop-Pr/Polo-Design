@@ -1,0 +1,11 @@
+.position-relative {
+    
+    background-position: center;
+    background-size: cover;
+    
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.6) 0%,rgba(255, 255, 255, 0.7) 100%), url(img/cover/type2.jpg);
+}
+
+.h1{
+    font-weight: bold;
+}
